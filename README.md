@@ -1,3 +1,5 @@
+![Banner](https://i.ibb.co/bMnVLvDs/Screenshot-2026-03-14-at-1-43-55-PM.png)
+
 # Hey, I'm Sharan 👋
 
 B.Tech CSE student at PDACE, Kalaburagi. First year, learning the fundamentals and building things along the way.
