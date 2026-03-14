@@ -33,7 +33,7 @@ B.Tech CSE student at PDACE, Kalaburagi. First year, learning the fundamentals a
 
 ## 📫 Find me here
 
-- 🌐 [Portfolio](https://portfolio-nine-sandy-sgmt026oa3.vercel.app)
+- 🌐 [Portfolio](https://sharanpatil.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sharanabasappa-patil-a549bb385)
 - 📸 [Instagram](https://www.instagram.com/sharan_patil65)
 
