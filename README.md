@@ -1,6 +1,6 @@
 # Hey, I'm Sharan 👋
 
-B.Tech CSE student at PDACE, Kalaburagi. First year, learning the fundamentals and building things along the way.
+B.Tech CSE student at PDACE, Kalaburagi. First year — learning the fundamentals and shipping real projects along the way.
 
 ---
 
@@ -8,7 +8,7 @@ B.Tech CSE student at PDACE, Kalaburagi. First year, learning the fundamentals a
 
 - **C** — core programming, memory, logic
 - **Python** — scripting and small projects
-- **HTML / CSS** — enough to build and deploy a real website
+- **HTML / CSS / JS** — building and deploying real websites
 - **Git & GitHub** — version control, proper workflow
 
 ---
@@ -17,6 +17,7 @@ B.Tech CSE student at PDACE, Kalaburagi. First year, learning the fundamentals a
 
 | Project | Description | Tech |
 |---|---|---|
+| [typewriter-preview](https://github.com/sharanpatil165/typewriter-preview) | Typewriter text animation with speed controls and glassmorphism UI | HTML, CSS, JS |
 | [mini-shell](https://github.com/sharanpatil165/mini-shell) | An interactive command-line shell with custom commands | C |
 | [C-PRACTICE](https://github.com/sharanpatil165/C-PRACTICE) | Factorial, binary search, matrices, strings and more | C |
 | [portfolio](https://github.com/sharanpatil165/portfolio) | My personal portfolio — live and deployed | HTML, CSS |
@@ -27,6 +28,7 @@ B.Tech CSE student at PDACE, Kalaburagi. First year, learning the fundamentals a
 
 - Data structures and algorithms in C
 - Python for practical projects
+- JavaScript — DOM, events, animations
 - How to not get lost in Git branches
 
 ---
