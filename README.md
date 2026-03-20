@@ -2,7 +2,7 @@
 
 > *"First year student. Still figuring it out. Shipping anyway."* 🏴‍☠️
 
-B.Tech CSE @ **PDACE, Kalaburagi** — building real projects from day one.  
+B.Tech CSE @ **PDACEK, Kalaburagi** — building real projects from day one.  
 I write C at 2am, break things in Python, and deploy websites before I fully understand them.  
 That's how you learn.
 
@@ -59,5 +59,4 @@ That's how you learn.
 [![Instagram](https://img.shields.io/badge/Instagram-sharan__patil65-E4405F?style=flat&logo=instagram)](https://www.instagram.com/sharan_patil65)
 
 ---
-
-*Powered by curiosity, caffeine, and the fear of being average.* ☕
+ 
