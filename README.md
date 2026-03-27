@@ -3,7 +3,7 @@
 > *"First year student. Still figuring it out. Shipping anyway."* 🏴‍☠️
 
 B.Tech CSE @ **PDACEK, Kalaburagi** — building real projects from day one.  
-I write C at 2am, break things in Python, and deploy websites before I fully understand them.  
+I write C at 2am, break things in Python, animate projects, and deploy websites before I fully understand them.  
 That's how you learn.
 
 ---
@@ -11,10 +11,11 @@ That's how you learn.
 ## 🧠 Currently inside my head
 
 ```
-► Grinding DSA in C
-► Learning JavaScript — DOM, events, animations
-► Exploring Python for practical projects
-► Trying to not get lost in Git branches (failing occasionally)
+► Grinding DSA in C — binary search, matrices, strings
+► JavaScript — DOM manipulation, animations
+► Electronics — op-amps, oscillators, resonance circuits
+► DaVinci Resolve for video projects
+► Actually trying to understand Git branches properly
 ```
 
 ---
@@ -45,6 +46,7 @@ That's how you learn.
 
 - 🎓 First year CSE — cleared Sem 1, still standing
 - 🔧 Was the technical guy on an ESP32 IoT project (Arduino IDE)
+- 🎬 Video editing with DaVinci Resolve
 - 🐍 Built a Python barcode scanner with OpenCV
 - 🎌 One Piece · Re:Zero · Bleach · Black Clover fan (don't @ me about the backlog)
   
@@ -59,4 +61,3 @@ That's how you learn.
 [![Instagram](https://img.shields.io/badge/Instagram-sharan__patil65-E4405F?style=flat&logo=instagram)](https://www.instagram.com/sharan_patil65)
 
 ---
- 
