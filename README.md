@@ -45,9 +45,6 @@ That's how you learn.
 ## ⚡ Quick facts
 
 - 🎓 First year CSE — cleared Sem 1, still standing
-- 🔧 Was the technical guy on an ESP32 IoT project (Arduino IDE)
-- 🎬 Video editing with DaVinci Resolve
-- 🐍 Built a Python barcode scanner with OpenCV
 - 🎌 One Piece · Re:Zero · Bleach · Black Clover fan (don't @ me about the backlog)
   
 
