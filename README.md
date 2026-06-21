@@ -8,19 +8,8 @@ That's how you learn.
 
 ---
 
-## 🧠 Currently inside my head
 
-```
-► Grinding DSA in C — binary search, matrices, strings
-► JavaScript — DOM manipulation, animations
-► Electronics — op-amps, oscillators, resonance circuits
-► DaVinci Resolve for video projects
-► Actually trying to understand Git branches properly
-```
-
----
-
-## 🛠️ Stack
+##  Stack
 
 | Layer | Tools |
 |---|---|
@@ -31,7 +20,7 @@ That's how you learn.
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 | Project | Description | Tech | Live |
 |---|---|---|---|
@@ -42,15 +31,15 @@ That's how you learn.
 
 ---
 
-## ⚡ Quick facts
+##  Quick facts
 
-- 🎓 First year CSE — cleared Sem 1, still standing
+- 🎓 First year 
 - 🎌 One Piece · Re:Zero · Bleach · Black Clover fan (don't @ me about the backlog)
   
 
 ---
 
-## 📫 Find me
+##  Find me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sharanpatil.vercel.app-blue?style=flat&logo=vercel)](https://sharanpatil.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sharan_Patil-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sharanabasappa-patil-a549bb385)
