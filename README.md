@@ -15,22 +15,8 @@ That's how you learn.
 |---|---|
 | Languages | C · Python · JavaScript |
 | Frontend | HTML · CSS |
-| Tools | Git · GitHub · VS Code · Arduino IDE |
-| Deployed on | Vercel |
 
 ---
-
-##  Projects
-
-| Project | Description | Tech | Live |
-|---|---|---|---|
-| [typewriter-preview](https://github.com/sharanpatil165/typewriter-preview) | Typewriter animation with speed controls & glassmorphism UI | HTML · CSS · JS | [↗ Live](https://typewriter-preview-html.vercel.app) |
-| [portfolio](https://github.com/sharanpatil165/portfolio) | Personal portfolio — designed and deployed | HTML · CSS | [↗ Live](https://sharanpatil.vercel.app) |
-| [mini-shell](https://github.com/sharanpatil165/mini-shell) | Interactive CLI shell with custom commands | C | — |
-| [C-PRACTICE](https://github.com/sharanpatil165/C-PRACTICE) | Factorial, binary search, matrices, strings | C | — |
-
----
-
 ##  Quick facts
 
 - 🎓 First year 
