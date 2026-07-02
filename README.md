@@ -6,16 +6,7 @@ B.Tech CSE @ **PDACEK, Kalaburagi** — building real projects from day one.
 I write C at 2am, break things in Python, animate projects, and deploy websites before I fully understand them.  
 That's how you learn.
 
----
-
-
-##  Stack
-
-| Layer | Tools |
-|---|---|
-| Languages | C · Python · JavaScript |
-| Frontend | HTML · CSS |
-
+ 
 ---
 ##  Quick facts
 
