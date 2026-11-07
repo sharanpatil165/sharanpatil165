@@ -1,26 +1,26 @@
 # Hey, I'm Sharan 👋
 
-> *"Second year student. Still figuring it out. Shipping anyway."* 🏴‍☠️
+*Second-year student. Still figuring it out. Shipping anyway.*
 
-B.Tech CSE @ **PDACEK, Kalaburagi** — building real projects from day one.  
-I write C at 2am, break things in Python, animate projects, and deploy websites before I fully understand them.  
-That's how you learn.
-
- 
----
-##  Quick facts
-
-- 🎓 Second year!
-- 🎌 One Piece · Re:Zero · Bleach · Black Clover fan (don't @ me about the backlog)
-  
+B.Tech CSE @ PDACEK, Kalaburagi. I write C at 2am, break things in Python, and deploy websites before I fully understand them. It's a questionable method, but it works.
 
 ---
 
-##  Find me
+## What I work with
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sharanpatil.vercel.app-blue?style=flat&logo=vercel)](https://sharanpatil.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sharan_Patil-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sharanabasappa-patil-a549bb385)
-[![GitHub](https://img.shields.io/badge/GitHub-sharanpatil165-181717?style=flat&logo=github)](https://github.com/sharanpatil165)
-[![Instagram](https://img.shields.io/badge/Instagram-sharan__patil65-E4405F?style=flat&logo=instagram)](https://www.instagram.com/sharan_patil65)
+**Languages:** C · Python · JavaScript · TypeScript
+**Web:** React · FastAPI · Bootstrap 5 · Vercel
+**Hardware:** ESP32 · Arduino IDE
+**Tools:** Git/GitHub · Cursor · DaVinci Resolve
 
 ---
+
+## Find me
+
+- 🌐 Portfolio: [sharanpatil.vercel.app](https://sharanpatil.vercel.app)
+- 💼 LinkedIn: _add link_
+- 📬 Email: _add address_
+
+---
+
+*Currently behind on One Piece, Re:Zero, Bleach, and Black Clover. Don't @ me.*
