@@ -1,26 +1,51 @@
 # Hey, I'm Sharan 👋
 
-*Second-year student. Still figuring it out. Shipping anyway.*
-
-B.Tech CSE @ PDACEK, Kalaburagi. I write C at 2am, break things in Python, and deploy websites before I fully understand them. It's a questionable method, but it works.
+First-year CSE student in Kalaburagi (friends call me Ash). I build things that
+run on real screens and real hardware, and I rebuild my portfolio more often
+than is healthy.
 
 ---
 
-## What I work with
+## Right now
 
-**Languages:** C · Python · JavaScript · TypeScript
-**Web:** React · FastAPI · Bootstrap 5 · Vercel
-**Hardware:** ESP32 · Arduino IDE
-**Tools:** Git/GitHub · Cursor · DaVinci Resolve
+- 🎓 B.Tech CSE at **PDACEK**, Kalaburagi
+- 🛠️ Technical Lead at the campus **Idea Lab**, a team of 6
+- 🎨 Polishing my portfolio and writing a case study on my projects
+
+---
+
+## Featured project
+
+### 🧭 [Campus Navigator](https://pda-campus-website.vercel.app)
+A searchable guide to the PDACEK campus. It covers 11 departments and 30+
+faculty, with a clickable campus map, a scored search, and a keyword chatbot.
+
+**Built with:** Vanilla JS · Bootstrap 5 · no build step · deployed on Vercel
+**Code:** [PDA_CAMPUS_WEBSITE](https://github.com/sharanpatil165/PDA_CAMPUS_WEBSITE)
+
+Also built: **TaskMind** and **Full-Page Shot**.
+
+---
+
+## Portfolio
+
+🌐 [sharanpatil.vercel.app](https://sharanpatil.vercel.app)
+Warm editorial design, with Cormorant Garamond on dark gold. It took several
+ground-up rebuilds to get here.
+
+---
+
+## Toolbox
+
+| | |
+|---|---|
+| **Languages** | C · Python · JavaScript · TypeScript |
+| **Web** | React · FastAPI · Bootstrap 5 |
+| **Embedded** | ESP32 · Arduino IDE |
+| **Workflow** | Cursor · Git/GitHub · Vercel · DaVinci Resolve |
 
 ---
 
 ## Find me
 
-- 🌐 Portfolio: [sharanpatil.vercel.app](https://sharanpatil.vercel.app)
-- 💼 LinkedIn: _add link_
-- 📬 Email: _add address_
-
----
-
-*Currently behind on One Piece, Re:Zero, Bleach, and Black Clover. Don't @ me.*
+[Portfolio](https://sharanpatil.vercel.app) · [GitHub](https://github.com/sharanpatil165)
