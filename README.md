@@ -10,7 +10,7 @@ That's how you learn.
 ---
 ##  Quick facts
 
-- 🎓 First year 
+- 🎓 Second year!
 - 🎌 One Piece · Re:Zero · Bleach · Black Clover fan (don't @ me about the backlog)
   
 
