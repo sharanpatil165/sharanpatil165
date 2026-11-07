@@ -1,6 +1,6 @@
 # Hey, I'm Sharan 👋
 
-> *"First year student. Still figuring it out. Shipping anyway."* 🏴‍☠️
+> *"Second year student. Still figuring it out. Shipping anyway."* 🏴‍☠️
 
 B.Tech CSE @ **PDACEK, Kalaburagi** — building real projects from day one.  
 I write C at 2am, break things in Python, animate projects, and deploy websites before I fully understand them.  
