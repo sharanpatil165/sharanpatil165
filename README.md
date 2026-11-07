@@ -1,6 +1,7 @@
 # Hey, I'm Sharan 👋
 
-First-year CSE student in Kalaburagi (friends call me Ash). I build things that
+Second
+-year CSE student in Kalaburagi (friends call me Ash). I build things that
 run on real screens and real hardware, and I rebuild my portfolio more often
 than is healthy.
 
