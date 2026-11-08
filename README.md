@@ -10,10 +10,6 @@ than is healthy.
 ## Right now
 
 - 🎓 B.Tech CSE at **PDACEK**, Kalaburagi
-- 🛠️ Technical Lead at the campus **Idea Lab**, a team of 6
-- 🎨 Polishing my portfolio and writing a case study on my projects
-
----
 
 ## Featured project
 
